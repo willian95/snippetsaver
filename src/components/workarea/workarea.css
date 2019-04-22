@@ -1,0 +1,7 @@
+.Workarea{
+    width: 100%;
+    padding-left: 250px;
+    height: 100%;
+    background-color: blue;
+    position: absolute;
+}
