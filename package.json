@@ -9,6 +9,7 @@
     "electron-is-dev": "^1.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-indexed-db": "0.0.2",
     "react-scripts": "2.1.8",
     "wait-on": "^3.2.0"
   },

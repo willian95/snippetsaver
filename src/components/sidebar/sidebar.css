@@ -1,7 +1,48 @@
 .Sidebar{
     width: 250px;
     height: 100vh;
-    background-color: #000;
+    background-color: #2d3436;
     position: absolute;
     z-index: 9;
+}
+
+.Sidebar .container h4{
+    text-align: left;
+}
+
+.Sidebar .container .btn{
+    float: right;
+}
+
+.Sidebar .add-labels{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 3rem;
+    color: #fff;
+}
+
+.Sidebar .btn-round{
+    border-radius: 50%;
+    background: #007bff;
+}
+
+.Sidebar i{
+    color: #fff;
+}
+
+.Sidebar .labels-list{
+    margin-top: 3rem;
+    color: #fff;
+}
+
+.Sidebar .labels-list li{
+    background-color: transparent;
+    border: none;
+}
+
+.Sidebar .custom-modal{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
 }

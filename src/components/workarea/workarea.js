@@ -7,11 +7,11 @@ class Workarea extends Component{
 
         return(
             <div className="Workarea">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="card">
-                                <div class="card-body">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-12">
+                            <div className="card">
+                                <div className="card-body">
                                     This is some text within a card body.
                                 </div>
                             </div>
